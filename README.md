@@ -19,7 +19,7 @@ I believe in continuous learning. Currently diving into [Technology/Framework/La
 - LinkedIn: [Your LinkedIn Profile]
 - Portfolio: [Link to Your Portfolio]
 - Twitter: [@YourTwitterHandle]
-- Email: [YourEmail@example.com]
+- Email: [mrsmahfujshakib@gmail.com]
 
 📈 GitHub Stats:
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
