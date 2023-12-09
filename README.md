@@ -1,4 +1,4 @@
-![gallery](https://github.com/mahfuj-bd/mahfuj-bd/assets/145707627/80d09368-d0d9-49aa-8082-420b11623169)
+![gallery](https://github.com/mahfuj-bd/mahfuj-bd/assets/145707627/80d09368-d0d9-49aa-8082-420b11623169<br>
 👋 Hello, World! I'm [Mahfujur Rahman], a passionate web developer with a love for turning ideas into digital experiences.
 
 🚀 My Tech Stack:
