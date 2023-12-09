@@ -23,5 +23,5 @@ I believe in continuous learning. Currently diving into [Technology/Framework/La
 
 📈 GitHub Stats:
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuj-bd&" alt="mahfuj-bd" /></p>
 🚀 Ready to collaborate and create impactful projects. Let's code the future together!
